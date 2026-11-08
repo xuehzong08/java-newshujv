@@ -6,4 +6,7 @@
  * Time: 17:19
  */
 public class git {
+    public static void main(String[] args) {
+
+    }
 }
